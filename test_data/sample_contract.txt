@@ -1,0 +1,67 @@
+SERVICE AGREEMENT
+
+This Agreement is made on [Date] between:
+
+ACME TECH SOLUTIONS INC. ("Provider")
+123 Tech Lane, Silicon Valley, CA 94025
+AND
+GLOBAL ENTERPRISE CORP. ("Client")
+456 Business Plaza, New York, NY 10001
+
+1. Services
+Provider agrees to provide cloud computing and data processing services ("Services") as specified in Schedule A. Services include but are not limited to:
+- Cloud infrastructure management
+- Data processing and analytics
+- Security monitoring and incident response
+- Technical support and maintenance
+
+2. Payment Terms
+2.1 Client shall pay Provider within 60 days of invoice date.
+2.2 Late payments will incur a penalty of 3% per month.
+2.3 All payments shall be made in USD.
+2.4 Annual service fee: $500,000
+
+3. Data Protection and Privacy
+3.1 Provider will process Client data in accordance with industry standards.
+3.2 Data breaches will be notified within 48 hours.
+3.3 Personal data will be stored in US-based data centers.
+3.4 Provider maintains ISO 27001 certification.
+
+4. Liability
+4.1 Provider's total liability shall be limited to 200% of the contract value.
+4.2 Provider shall indemnify Client for direct damages only.
+4.3 Neither party shall be liable for indirect or consequential damages.
+
+5. Intellectual Property
+5.1 All IP created during service provision shall belong to Provider.
+5.2 Client receives a non-exclusive, perpetual license to use deliverables.
+5.3 Third-party software licenses are not explicitly disclosed.
+
+6. Termination
+6.1 Either party may terminate with 30 days written notice.
+6.2 Termination for convenience requires 45 days notice.
+6.3 Provider may terminate immediately for non-payment.
+
+7. Security Requirements
+7.1 Security audits will be conducted bi-annually.
+7.2 Incident response time: 8 hours.
+7.3 Data encryption: AES-256.
+
+8. Service Levels
+8.1 Guaranteed uptime: 99.5%
+8.2 Response time for critical issues: 6 hours
+8.3 Monthly performance reports will be provided
+
+9. Force Majeure
+Standard force majeure provisions apply to events beyond reasonable control of either party.
+
+10. Governing Law
+This Agreement shall be governed by the laws of the State of California.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+For Provider:                           For Client:
+_____________________                   _____________________
+Name:                                   Name:
+Title:                                  Title:
+Date:                                   Date: 

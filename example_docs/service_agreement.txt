@@ -1,0 +1,65 @@
+SERVICE AGREEMENT
+
+THIS SERVICE AGREEMENT (the "Agreement") is made effective as of [DATE] by and between:
+
+PROVIDER: [Provider Name], a company registered under the laws of [State/Country], with its principal place of business at [Address] ("Provider")
+
+and
+
+CLIENT: [Client Name], a company registered under the laws of [State/Country], with its principal place of business at [Address] ("Client")
+
+1. SERVICES
+
+1.1 The Provider agrees to provide the following services to the Client (the "Services"):
+    a) Software development and implementation
+    b) System maintenance and support
+    c) Technical consultation
+    d) Project management
+
+2. PAYMENT TERMS
+
+2.1 The Client agrees to pay the Provider a fee of $[Amount] per month for the Services.
+2.2 Invoices will be issued monthly and are payable within 30 days of receipt.
+2.3 Late payments will incur interest at a rate of 1.5% per month.
+
+3. TERM AND TERMINATION
+
+3.1 This Agreement shall commence on [Start Date] and continue for a period of 12 months.
+3.2 Either party may terminate this Agreement with 60 days written notice.
+3.3 Immediate termination is permitted in case of material breach by either party.
+
+4. CONFIDENTIALITY
+
+4.1 Both parties agree to maintain the confidentiality of any proprietary information shared during the course of this Agreement.
+4.2 This obligation survives the termination of this Agreement for a period of 3 years.
+
+5. INTELLECTUAL PROPERTY
+
+5.1 All pre-existing intellectual property remains the property of its original owner.
+5.2 New intellectual property developed specifically for the Client shall be assigned to the Client upon full payment.
+
+6. LIABILITY
+
+6.1 The Provider's total liability under this Agreement shall not exceed the total amount paid by the Client in the 12 months preceding any claim.
+6.2 Neither party shall be liable for any indirect or consequential damages.
+
+7. FORCE MAJEURE
+
+7.1 Neither party shall be liable for any failure or delay due to circumstances beyond their reasonable control.
+
+8. GOVERNING LAW
+
+8.1 This Agreement shall be governed by the laws of [State/Country].
+8.2 Any disputes shall be resolved in the courts of [City, State/Country].
+
+9. ASSIGNMENT
+
+9.1 Neither party may assign this Agreement without the prior written consent of the other party.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+[Provider Name]                           [Client Name]
+By: _____________________                By: _____________________
+Name:                                    Name:
+Title:                                   Title:
+Date:                                    Date: 

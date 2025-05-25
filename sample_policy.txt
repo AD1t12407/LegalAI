@@ -1,0 +1,26 @@
+Company Policy Guidelines
+
+1. Data Protection and Privacy
+- All contracts must include GDPR compliance clauses
+- Personal data handling must be explicitly defined
+- Data breach notification procedures must be included
+
+2. Liability and Indemnification
+- Maximum liability cap should not exceed contract value
+- Mutual indemnification clauses are required
+- Force majeure clauses must be clearly defined
+
+3. Payment Terms
+- Payment terms should not exceed 60 days
+- Late payment penalties must be reasonable
+- Currency and payment method must be specified
+
+4. Termination
+- Notice period should be minimum 30 days
+- Termination for convenience should be mutual
+- Clear exit criteria must be defined
+
+5. Intellectual Property
+- IP ownership must be clearly defined
+- License terms must be explicit
+- Third-party IP must be disclosed 

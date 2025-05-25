@@ -1,0 +1,85 @@
+CONTRACT POLICY GUIDELINES
+Version 2.0 - May 2024
+
+1. PAYMENT TERMS POLICY
+1.1 Standard Payment Structure:
+    - Maximum upfront payment: 30% of total contract value
+    - Minimum final payment: 20% of total contract value
+    - Payment terms not to exceed 45 days
+1.2 Late Payment Terms:
+    - Maximum late payment interest: 1% per month
+    - Must include specific payment milestones
+
+2. INTELLECTUAL PROPERTY GUIDELINES
+2.1 Required Provisions:
+    - Clear definition of pre-existing IP
+    - Specific transfer conditions for new IP
+    - Protection of company's core IP assets
+2.2 Risk Factors:
+    - Broad IP assignments without limitations
+    - Unclear ownership of derivative works
+    - Missing confidentiality provisions
+
+3. CONFIDENTIALITY REQUIREMENTS
+3.1 Mandatory Elements:
+    - Minimum 3-year post-termination duration
+    - Clear definition of confidential information
+    - Data protection compliance clauses
+3.2 High-Risk Indicators:
+    - Duration less than 3 years
+    - Absence of return/destruction provisions
+    - Weak enforcement mechanisms
+
+4. LIABILITY STANDARDS
+4.1 Acceptable Limits:
+    - Liability cap: Maximum 2x contract value
+    - Must exclude gross negligence/willful misconduct
+4.2 Required Indemnifications:
+    - IP infringement protection
+    - Data breach responsibilities
+    - Third-party claim procedures
+
+5. TERMINATION PROVISIONS
+5.1 Minimum Requirements:
+    - 45-day notice period for convenience
+    - Immediate termination for material breach
+    - Clear wind-down procedures
+5.2 Risk Factors:
+    - Notice period less than 30 days
+    - Unclear termination consequences
+    - Missing payment obligations
+
+6. GOVERNING LAW AND JURISDICTION
+6.1 Preferred Jurisdictions:
+    - California, New York, Delaware
+    - EU jurisdictions for European contracts
+6.2 High-Risk Jurisdictions:
+    - Jurisdictions without strong IP protection
+    - Countries with weak contract enforcement
+    - Regions with political instability
+
+7. FORCE MAJEURE GUIDELINES
+7.1 Required Elements:
+    - Specific triggering events
+    - Notice requirements
+    - Maximum duration before termination right
+7.2 Risk Factors:
+    - Overly broad definitions
+    - Missing notification requirements
+    - No time limitations
+
+8. ASSIGNMENT RESTRICTIONS
+8.1 Standard Requirements:
+    - Written consent for any assignment
+    - Change of control provisions
+    - Assignment to affiliates permitted
+8.2 Risk Factors:
+    - Unrestricted assignment rights
+    - Missing change of control provisions
+    - Unclear affiliate definitions
+
+COMPLIANCE AND ENFORCEMENT
+- All contracts must be reviewed against these guidelines
+- Deviations require senior management approval
+- Quarterly audit of contract compliance required
+- Regular updates to reflect regulatory changes 

@@ -1,0 +1,55 @@
+SOFTWARE DEVELOPMENT AGREEMENT
+
+This Agreement is made on [DATE] between:
+
+CLIENT: [Client Name] ("Client")
+DEVELOPER: [Developer Name] ("Developer")
+
+1. SCOPE OF WORK
+1.1 The Developer agrees to develop software according to the specifications provided in Appendix A.
+1.2 The project will be completed in phases as outlined in the project timeline.
+
+2. PAYMENT TERMS
+2.1 Total project cost: $100,000
+2.2 Payment schedule:
+    - 30% upon contract signing
+    - 40% upon completion of Phase 1
+    - 30% upon final delivery
+2.3 Payments are due within 15 days of invoice date.
+
+3. INTELLECTUAL PROPERTY
+3.1 All intellectual property rights in the developed software shall vest in the Client upon final payment.
+3.2 The Developer retains rights to generic components and libraries used in development.
+
+4. CONFIDENTIALITY
+4.1 Both parties agree to maintain strict confidentiality of all information shared during the project.
+4.2 This obligation survives the termination of this agreement for a period of 3 years.
+
+5. LIABILITY
+5.1 The Developer's total liability under this agreement shall not exceed the total project cost.
+5.2 Neither party shall be liable for any indirect or consequential losses.
+
+6. TERMINATION
+6.1 Either party may terminate this agreement with 30 days written notice.
+6.2 Upon termination, the Client shall pay for all work completed up to the termination date.
+
+7. GOVERNING LAW
+7.1 This agreement is governed by the laws of California.
+7.2 Any disputes shall be resolved through arbitration in San Francisco.
+
+8. FORCE MAJEURE
+8.1 Neither party shall be liable for delays caused by circumstances beyond their reasonable control.
+
+9. AMENDMENTS
+9.1 Any modifications to this agreement must be in writing and signed by both parties.
+
+10. ENTIRE AGREEMENT
+10.1 This agreement constitutes the entire understanding between the parties.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+_______________________
+Client
+
+_______________________
+Developer 

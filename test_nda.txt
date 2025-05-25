@@ -1,0 +1,57 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Non-Disclosure Agreement ("Agreement") is entered into as of [DATE] between:
+
+PARTY A: [Company A] ("Company A")
+PARTY B: [Company B] ("Company B")
+
+1. DEFINITION OF CONFIDENTIAL INFORMATION
+1.1 "Confidential Information" means any proprietary or secret information disclosed by either party to the other party, including but not limited to:
+    - Trade secrets
+    - Technical information
+    - Business plans
+    - Customer data
+    - Financial information
+1.2 Information shall not be considered Confidential Information if it:
+    - Is or becomes publicly available through no fault of the receiving party
+    - Was known to the receiving party prior to disclosure
+    - Is independently developed by the receiving party
+    - Is disclosed with the written approval of the disclosing party
+
+2. OBLIGATIONS OF RECEIVING PARTY
+2.1 The receiving party shall:
+    - Maintain the confidentiality of the information
+    - Use the information only for the business purpose
+    - Limit access to employees who need to know
+    - Not reverse engineer any technical information
+2.2 The receiving party shall protect the information with the same degree of care used to protect its own confidential information.
+
+3. TERM AND TERMINATION
+3.1 This Agreement shall remain in effect for 2 years from the date of execution.
+3.2 The confidentiality obligations shall survive for 3 years after termination.
+3.3 Upon termination or request, the receiving party shall:
+    - Return all confidential materials
+    - Destroy all copies and notes
+    - Certify compliance in writing
+
+4. REMEDIES
+4.1 Both parties acknowledge that monetary damages may be inadequate for a breach.
+4.2 The disclosing party shall be entitled to injunctive relief.
+4.3 The prevailing party in any legal action shall be entitled to recover reasonable attorney fees.
+
+5. GOVERNING LAW
+5.1 This Agreement shall be governed by the laws of New York.
+5.2 Any disputes shall be resolved in the courts of New York City.
+
+6. MISCELLANEOUS
+6.1 This Agreement represents the entire understanding between the parties.
+6.2 Any modifications must be in writing and signed by both parties.
+6.3 If any provision is found invalid, the remainder shall continue in effect.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+_______________________
+Company A
+
+_______________________
+Company B 

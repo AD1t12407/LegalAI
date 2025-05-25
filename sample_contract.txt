@@ -1,0 +1,28 @@
+SERVICE AGREEMENT
+
+This Agreement is made between ACME Corp ("Provider") and XYZ Ltd ("Client") on [Date].
+
+1. Services
+Provider agrees to provide cloud computing services to Client as specified in Schedule A.
+
+2. Payment Terms
+Client shall pay Provider within 90 days of invoice date. Late payments will incur a 10% monthly penalty.
+
+3. Data Protection
+Provider will process Client data in accordance with industry standards. Provider will notify Client of any data breaches within 72 hours.
+
+4. Liability
+Provider's total liability shall be limited to 200% of the contract value. Provider shall indemnify Client for direct damages only.
+
+5. Intellectual Property
+All IP created during the service provision shall belong to Provider. Client receives a non-exclusive license to use the deliverables.
+
+6. Termination
+Either party may terminate this agreement with 15 days written notice. Provider may terminate immediately for Client's breach.
+
+7. Force Majeure
+Standard force majeure conditions apply to both parties.
+
+Signed by:
+[Provider Representative]
+[Client Representative] 

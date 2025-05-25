@@ -1,0 +1,31 @@
+CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT
+
+This Agreement is made on [DATE] between Company A ("Disclosing Party") and Company B ("Receiving Party").
+
+1. CONFIDENTIAL INFORMATION
+The Receiving Party shall have unlimited rights to use all confidential information for any purpose without restriction. Confidential information includes but is not limited to trade secrets, customer data, financial information, and proprietary technology.
+
+2. TERM AND TERMINATION
+This Agreement may be terminated by either party with immediate effect without notice. Upon termination, the Receiving Party may retain and continue to use all confidential information indefinitely.
+
+3. INTELLECTUAL PROPERTY
+All intellectual property rights in the confidential information shall be jointly owned by both parties. The Receiving Party shall have the right to file patent applications based on the confidential information without consent.
+
+4. LIABILITY
+Neither party shall be liable for any damages arising from the use or disclosure of confidential information. The Receiving Party shall be indemnified against all claims related to the use of confidential information.
+
+5. GOVERNING LAW
+This Agreement shall be governed by the laws of a jurisdiction to be determined at a later date. Any disputes shall be resolved through binding arbitration in a location chosen by the Receiving Party.
+
+6. AMENDMENTS
+This Agreement may be amended unilaterally by either party without notice to or consent from the other party.
+
+7. FORCE MAJEURE
+Neither party shall be required to notify the other of any force majeure event or its impact on performance obligations.
+
+8. ASSIGNMENT
+This Agreement may be freely assigned to any third party without notice or consent.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+[SIGNATURES] 

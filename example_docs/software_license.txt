@@ -1,0 +1,106 @@
+SOFTWARE LICENSE AGREEMENT
+
+THIS SOFTWARE LICENSE AGREEMENT (the "Agreement") is made on [DATE] between:
+
+LICENSOR: [Software Company Name], with its principal place of business at [Address] ("Licensor")
+
+and
+
+LICENSEE: [Customer Name], with its principal place of business at [Address] ("Licensee")
+
+1. DEFINITIONS
+
+1.1 "Software" means the [Software Name] software program, including:
+    a) Object code and source code
+    b) Documentation and user manuals
+    c) Updates and modifications
+    d) Related materials and media
+
+2. LICENSE GRANT
+
+2.1 Subject to the terms of this Agreement, Licensor grants Licensee a:
+    a) Non-exclusive
+    b) Non-transferable
+    c) Revocable
+    d) Limited license to use the Software
+
+2.2 License Restrictions. Licensee shall not:
+    a) Modify, translate, or create derivative works
+    b) Reverse engineer or decompile the Software
+    c) Remove or modify any proprietary notices
+    d) Sublicense or distribute the Software
+    e) Use the Software for service bureau purposes
+
+3. TERM AND FEES
+
+3.1 Term: This license is effective for [Duration] from the Effective Date.
+3.2 License Fees: Licensee shall pay $[Amount] annually in advance.
+3.3 Renewal: License may be renewed for additional terms at then-current rates.
+
+4. INTELLECTUAL PROPERTY
+
+4.1 Ownership: Licensor retains all rights, title, and interest in:
+    a) The Software
+    b) All modifications and improvements
+    c) All intellectual property rights
+    d) Any derivative works
+
+5. WARRANTIES AND DISCLAIMERS
+
+5.1 Limited Warranty:
+    a) Software will perform substantially as documented
+    b) Warranty period of 90 days from delivery
+    c) Exclusive remedy is repair or replacement
+
+5.2 Disclaimer:
+    EXCEPT AS EXPRESSLY PROVIDED, THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+
+6. SUPPORT AND MAINTENANCE
+
+6.1 Standard Support includes:
+    a) Bug fixes and patches
+    b) Technical support during business hours
+    c) Access to online documentation
+    d) Regular updates
+
+7. LIMITATION OF LIABILITY
+
+7.1 IN NO EVENT SHALL LICENSOR BE LIABLE FOR:
+    a) Any indirect, special, or consequential damages
+    b) Lost profits or business interruption
+    c) Data loss or corruption
+    d) Damages exceeding fees paid in prior 12 months
+
+8. TERMINATION
+
+8.1 This Agreement may be terminated:
+    a) By either party upon 30 days written notice
+    b) Immediately for material breach
+    c) Upon Licensee's bankruptcy or insolvency
+
+8.2 Upon termination:
+    a) All licenses terminate
+    b) Licensee must cease all use
+    c) Return or destroy all copies
+    d) Certify compliance in writing
+
+9. CONFIDENTIALITY
+
+9.1 Each party shall:
+    a) Protect confidential information
+    b) Limit access to need-to-know basis
+    c) Return or destroy upon termination
+    d) Maintain confidentiality for 3 years
+
+10. GOVERNING LAW
+
+10.1 This Agreement shall be governed by the laws of [State/Country].
+10.2 Exclusive jurisdiction in the courts of [City, State/Country].
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+[Licensor]                                [Licensee]
+By: _____________________                By: _____________________
+Name:                                    Name:
+Title:                                   Title:
+Date:                                    Date: 

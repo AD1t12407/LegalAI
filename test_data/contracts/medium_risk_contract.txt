@@ -1,0 +1,67 @@
+CONSULTING SERVICES AGREEMENT
+
+This Agreement is made on May 24, 2024, between:
+ACME Corporation ("Client")
+and
+ConsultCo International ("Consultant")
+
+1. PAYMENT TERMS
+1.1 Client shall pay Consultant according to the following schedule:
+    - Upfront Payment: 25% of total contract value ($150,000)
+    - Monthly payments: 15% for 5 months
+1.2 Payment terms: 30 days from invoice date
+1.3 Late payment interest: 5% per annum
+
+2. INTELLECTUAL PROPERTY
+2.1 IP ownership shared with limited license to Client
+2.2 Pre-existing IP clearly defined in Appendix A
+2.3 Methodology and tools remain Consultant's property
+2.4 Standard IP indemnification provided
+
+3. CONFIDENTIALITY
+3.1 Confidentiality period: 4 years post-termination
+3.2 Standard data protection measures
+3.3 Annual security audits required
+3.4 48-hour breach notification requirement
+
+4. LIABILITY
+4.1 Consultant's liability capped at $300,000 (2x contract value)
+4.2 Limited waiver of consequential damages
+4.3 Standard indemnification for IP/data breaches
+4.4 Professional liability insurance: $1,000,000
+
+5. TERMINATION
+5.1 45-day notice period required
+5.2 Standard transition assistance
+5.3 Termination rights include:
+    - Material breach
+    - Insolvency
+5.4 Basic data/IP return procedures
+
+6. GOVERNING LAW
+6.1 Jurisdiction: Delaware
+6.2 Arbitration in New York
+6.3 Mediation before arbitration
+6.4 New York law applies
+
+7. FORCE MAJEURE
+7.1 Force majeure period: 45 days
+7.2 Specific events listed with catch-all provision
+7.3 Termination right after 45 days
+7.4 Reasonable mitigation required
+
+8. COMPLIANCE
+8.1 Standard compliance requirements:
+    - Data protection
+    - Anti-corruption
+8.2 Annual compliance audits
+8.3 Audit rights with 14-day notice
+8.4 Semi-annual compliance reports
+
+9. AMENDMENTS
+9.1 Written amendments required
+9.2 Email confirmation acceptable for minor changes
+9.3 Basic version control maintained
+
+Total Contract Value: $150,000
+Term: 6 months 

@@ -1,0 +1,78 @@
+INTERNAL CONTRACT POLICY GUIDELINES
+
+1. PAYMENT TERMS POLICY
+1.1 Standard payment terms should follow the structure:
+    - Maximum upfront payment: 25%
+    - Interim payments: Based on deliverable milestones
+    - Final payment: Minimum 20%
+1.2 Payment terms exceeding 30 days require senior management approval.
+
+2. INTELLECTUAL PROPERTY REQUIREMENTS
+2.1 All contracts must include clear IP ownership transfer clauses.
+2.2 Company must retain rights to:
+    - Pre-existing IP
+    - Generic development tools and methodologies
+    - Reusable components
+2.3 IP transfer must be explicitly tied to final payment.
+
+3. CONFIDENTIALITY STANDARDS
+3.1 Minimum confidentiality period: 5 years post-termination
+3.2 Must include:
+    - Definition of confidential information
+    - Permitted use cases
+    - Return/destruction of confidential materials
+3.3 NDAs should be mutual unless specifically approved otherwise.
+
+4. LIABILITY AND INDEMNIFICATION
+4.1 Liability caps should not be less than 2x contract value.
+4.2 Must include indemnification for:
+    - IP infringement
+    - Data breaches
+    - Gross negligence
+4.3 No blanket waivers of consequential damages.
+
+5. TERMINATION PROVISIONS
+5.1 Minimum notice period: 60 days
+5.2 Immediate termination rights for:
+    - Material breach
+    - Insolvency
+    - Change of control
+5.3 Must include transition assistance provisions.
+
+6. GOVERNING LAW AND JURISDICTION
+6.1 Preferred jurisdiction: Delaware
+6.2 Arbitration is preferred over litigation
+6.3 Venue must be in the United States
+
+7. FORCE MAJEURE
+7.1 Must include specific qualifying events
+7.2 Maximum force majeure period: 30 days
+7.3 Termination right if force majeure extends beyond 30 days
+
+8. COMPLIANCE REQUIREMENTS
+8.1 All contracts must include:
+    - Data protection compliance
+    - Anti-corruption compliance
+    - Export control compliance
+8.2 Regular compliance audits must be permitted.
+
+9. AMENDMENT PROCEDURES
+9.1 All amendments must be:
+    - In writing
+    - Signed by authorized representatives
+    - Tracked in contract management system
+
+10. RISK ASSESSMENT CRITERIA
+10.1 High Risk Indicators:
+    - Non-standard payment terms
+    - Unlimited liability
+    - Foreign jurisdiction
+    - No source code escrow
+10.2 Medium Risk Indicators:
+    - Modified standard clauses
+    - Limited audit rights
+    - Restricted IP rights
+10.3 Low Risk Indicators:
+    - Standard templates used
+    - Clear deliverables
+    - Standard payment terms 

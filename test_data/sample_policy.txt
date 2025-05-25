@@ -1,0 +1,50 @@
+Company Policy Guidelines
+
+1. Data Protection and Privacy
+- All contracts must include GDPR compliance clauses
+- Personal data handling must be explicitly defined
+- Data breach notification procedures must be included within 24 hours
+- Data retention periods must be specified
+- Data transfer mechanisms must be compliant with international regulations
+
+2. Liability and Indemnification
+- Maximum liability cap must not exceed 150% of contract value
+- Mutual indemnification clauses are required
+- Force majeure clauses must be clearly defined
+- Exclusions must be specifically enumerated
+- Insurance requirements must be specified
+
+3. Payment Terms
+- Payment terms must not exceed 45 days
+- Late payment penalties must not exceed 2% per month
+- Currency must be specified in USD or EUR
+- Payment milestones must be clearly defined
+- Invoicing procedures must be detailed
+
+4. Termination
+- Notice period must be minimum 60 days
+- Termination for convenience must require 90 days notice
+- Termination for cause must be clearly defined
+- Wind-down procedures must be specified
+- Data return/destruction procedures must be included
+
+5. Intellectual Property
+- IP ownership must be clearly defined
+- License terms must be explicit and time-bound
+- Third-party IP must be disclosed and licensed appropriately
+- IP indemnification must be included
+- Source code escrow must be considered for software contracts
+
+6. Security Requirements
+- Annual security audits are mandatory
+- Incident response time must be under 4 hours
+- Encryption standards must be specified
+- Access control procedures must be documented
+- Security certifications must be maintained
+
+7. Service Levels
+- SLA metrics must be quantifiable
+- Response times must be specified
+- Uptime guarantees must exceed 99.9%
+- Penalty clauses must be included
+- Measurement methodologies must be defined 

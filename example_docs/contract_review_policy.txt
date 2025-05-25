@@ -1,0 +1,128 @@
+INTERNAL POLICY: CONTRACT REVIEW AND APPROVAL GUIDELINES
+
+Document ID: POL-2024-001
+Version: 1.0
+Effective Date: January 1, 2024
+Last Updated: December 15, 2023
+
+1. PURPOSE AND SCOPE
+
+1.1 This policy establishes guidelines and requirements for reviewing and approving contracts to ensure consistency, risk management, and compliance with company standards.
+
+2. MANDATORY REVIEW REQUIREMENTS
+
+2.1 All contracts must be reviewed for the following elements:
+
+    a) Financial Terms
+       - Payment terms must not exceed Net 60
+       - Advance payments must not exceed 25% of total contract value
+       - Late payment penalties must not exceed 1% per month
+    
+    b) Liability Provisions
+       - Liability caps must be at least 2x the contract value
+       - Mutual indemnification is required for third-party claims
+       - Consequential damages must be mutually excluded
+    
+    c) Termination Clauses
+       - Notice period must be minimum 30 days
+       - Termination for convenience must be mutual
+       - Immediate termination rights for material breach
+    
+    d) Intellectual Property
+       - Company IP must remain exclusively owned
+       - Clear definition of pre-existing IP
+       - License grants must be limited to project scope
+
+3. RISK ASSESSMENT CRITERIA
+
+3.1 High Risk Indicators:
+    - Contract value exceeds $500,000
+    - Unlimited liability provisions
+    - Non-standard indemnification
+    - Cross-border jurisdiction
+    - Data privacy implications
+    - Regulatory compliance requirements
+
+3.2 Medium Risk Indicators:
+    - Contract value between $100,000 and $500,000
+    - Modified standard terms
+    - Limited liability caps
+    - Third-party beneficiaries
+    - Performance guarantees
+
+3.3 Low Risk Indicators:
+    - Standard template usage
+    - Contract value below $100,000
+    - Standard payment terms
+    - Local jurisdiction
+    - No sensitive data involved
+
+4. APPROVAL REQUIREMENTS
+
+4.1 High Risk Contracts:
+    - Legal Department review mandatory
+    - Senior Management approval required
+    - Risk Committee review for contracts over $1M
+    - Board approval for contracts over $5M
+
+4.2 Medium Risk Contracts:
+    - Legal Department review recommended
+    - Department Head approval required
+    - Finance review for non-standard payment terms
+
+4.3 Low Risk Contracts:
+    - Department Head approval sufficient
+    - Standard template usage permitted
+    - Legal review optional
+
+5. PROHIBITED TERMS
+
+5.1 The following terms are prohibited without explicit Legal Department approval:
+    - Unlimited liability
+    - Personal guarantees
+    - Automatic renewal beyond 12 months
+    - Foreign governing law (except for international entities)
+    - Assignment without consent
+    - Waiver of jury trial
+
+6. COMPLIANCE AND DOCUMENTATION
+
+6.1 Required Documentation:
+    - Completed contract review checklist
+    - Risk assessment form
+    - Approval signatures
+    - Supporting business case
+    - Due diligence documentation
+
+7. REVIEW TIMEFRAMES
+
+7.1 Standard Review Times:
+    - High Risk: 10 business days
+    - Medium Risk: 5 business days
+    - Low Risk: 2 business days
+
+8. EXCEPTIONS
+
+8.1 Exceptions to this policy require:
+    - Written justification
+    - Legal Department approval
+    - Senior Management sign-off
+    - Documentation of risk mitigation measures
+
+9. POLICY ENFORCEMENT
+
+9.1 Non-compliance may result in:
+    - Delayed contract execution
+    - Disciplinary action
+    - Increased oversight requirements
+    - Mandatory additional training
+
+10. REVIEW AND UPDATES
+
+10.1 This policy shall be reviewed annually and updated as needed to reflect:
+     - Changes in legal requirements
+     - Business needs
+     - Risk landscape
+     - Best practices
+
+END OF POLICY 

@@ -1,0 +1,73 @@
+NON-DISCLOSURE AGREEMENT
+
+THIS NON-DISCLOSURE AGREEMENT (the "Agreement") is entered into on [DATE] by and between:
+
+DISCLOSING PARTY: [Company Name], with its principal place of business at [Address] ("Discloser")
+
+and
+
+RECEIVING PARTY: [Recipient Name], with its principal place of business at [Address] ("Recipient")
+
+1. DEFINITION OF CONFIDENTIAL INFORMATION
+
+1.1 "Confidential Information" means any and all non-public information, including but not limited to:
+    a) Trade secrets
+    b) Proprietary information
+    c) Technical data and know-how
+    d) Business strategies and plans
+    e) Customer and supplier information
+    f) Financial information and projections
+    g) Employee and personnel information
+
+2. OBLIGATIONS OF RECEIVING PARTY
+
+2.1 The Receiving Party shall:
+    a) Maintain the confidentiality of all Confidential Information
+    b) Use the Confidential Information only for the purpose of [Specific Purpose]
+    c) Limit access to Confidential Information to employees with a need to know
+    d) Not disclose Confidential Information to any third party without prior written consent
+    e) Implement appropriate security measures to prevent unauthorized access
+
+3. EXCLUSIONS
+
+3.1 This Agreement does not apply to information that:
+    a) Is or becomes publicly available through no fault of the Receiving Party
+    b) Was known to the Receiving Party prior to disclosure
+    c) Is independently developed by the Receiving Party
+    d) Is disclosed with the Disclosing Party's prior written approval
+    e) Is required to be disclosed by law or court order
+
+4. TERM AND TERMINATION
+
+4.1 This Agreement shall remain in effect for [Duration] years from the date of execution.
+4.2 The confidentiality obligations shall survive the termination of this Agreement for an additional [Duration] years.
+
+5. RETURN OF MATERIALS
+
+5.1 Upon request or termination of this Agreement, the Receiving Party shall:
+    a) Return all Confidential Information in tangible form
+    b) Destroy all electronic copies of Confidential Information
+    c) Certify in writing that all such materials have been returned or destroyed
+
+6. REMEDIES
+
+6.1 The Receiving Party acknowledges that monetary damages may be inadequate for a breach of this Agreement.
+6.2 The Disclosing Party shall be entitled to injunctive relief in addition to all other remedies available at law.
+
+7. GOVERNING LAW AND JURISDICTION
+
+7.1 This Agreement shall be governed by the laws of [State/Country].
+7.2 Any disputes shall be resolved in the courts of [City, State/Country].
+
+8. ENTIRE AGREEMENT
+
+8.1 This Agreement constitutes the entire understanding between the parties with respect to Confidential Information.
+8.2 Any modifications must be made in writing and signed by both parties.
+
+IN WITNESS WHEREOF, the parties have executed this Non-Disclosure Agreement as of the date first above written.
+
+[Disclosing Party]                        [Receiving Party]
+By: _____________________                By: _____________________
+Name:                                    Name:
+Title:                                   Title:
+Date:                                    Date: 

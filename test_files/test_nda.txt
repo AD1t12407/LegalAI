@@ -1,0 +1,46 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual Non-Disclosure Agreement (the "Agreement") is entered into on May 24, 2024, between:
+
+PARTY A: InnoTech Solutions Inc.
+PARTY B: Global Enterprises LLC
+
+1. DEFINITION OF CONFIDENTIAL INFORMATION
+"Confidential Information" means any proprietary information, technical data, trade secrets, or know-how, including, but not limited to, research, product plans, products, services, customers, markets, software, developments, inventions, processes, formulas, technology, designs, drawings, engineering, hardware configuration information, marketing, finances, or other business information.
+
+2. NON-DISCLOSURE AND NON-USE
+2.1 Each party agrees to:
+    a) Maintain the confidentiality of the other party's Confidential Information
+    b) Not use the Confidential Information for any purpose outside the scope of potential business relationship
+    c) Take all reasonable precautions to prevent unauthorized disclosure
+
+3. EXCLUSIONS
+This Agreement does not apply to information that:
+a) Was publicly known at the time of disclosure
+b) Becomes publicly known through no fault of receiving party
+c) Was rightfully known before disclosure
+d) Is independently developed without use of the Confidential Information
+
+4. TERM AND TERMINATION
+4.1 This Agreement shall remain in effect for 2 years from the date of signing
+4.2 Confidentiality obligations survive termination for an additional 3 years
+4.3 Upon termination, all Confidential Information shall be returned or destroyed
+
+5. GOVERNING LAW
+This Agreement shall be governed by the laws of California, without regard to conflicts of law principles.
+
+6. REMEDIES
+Both parties acknowledge that monetary damages may be insufficient for breach of this Agreement and agree that injunctive relief may be sought.
+
+7. ASSIGNMENT
+This Agreement may not be assigned without prior written consent of the other party.
+
+IN WITNESS WHEREOF:
+
+_______________________
+InnoTech Solutions Inc.
+Date: May 24, 2024
+
+_______________________
+Global Enterprises LLC
+Date: May 24, 2024 

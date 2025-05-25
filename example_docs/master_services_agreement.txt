@@ -1,0 +1,145 @@
+MASTER SERVICES AGREEMENT
+
+THIS MASTER SERVICES AGREEMENT (the "Agreement") is made effective as of [DATE] by and between:
+
+SERVICE PROVIDER: [Provider Name], a corporation organized under the laws of [State/Country], with its principal place of business at [Address] ("Provider")
+
+and
+
+CLIENT: [Client Name], a corporation organized under the laws of [State/Country], with its principal place of business at [Address] ("Client")
+
+1. SCOPE OF SERVICES
+
+1.1 Services: Provider shall provide services as described in individual Statements of Work ("SOW") executed under this Agreement.
+
+1.2 Statements of Work shall include:
+    a) Detailed description of services
+    b) Deliverables and timelines
+    c) Acceptance criteria
+    d) Fees and payment schedule
+    e) Resource requirements
+    f) Any special terms or conditions
+
+2. TERM AND TERMINATION
+
+2.1 Term: This Agreement shall commence on the Effective Date and continue for [Duration] years.
+
+2.2 Termination Rights:
+    a) Either party may terminate with 90 days written notice
+    b) Immediate termination for material breach
+    c) Termination of individual SOWs does not terminate Agreement
+    d) Client may terminate any SOW for convenience with 30 days notice
+
+3. FEES AND PAYMENT
+
+3.1 Fees:
+    a) As specified in each SOW
+    b) Annual rate increases not to exceed 3%
+    c) Expenses reimbursed at actual cost
+    d) Invoicing monthly in arrears
+
+3.2 Payment Terms:
+    a) Net 45 days from invoice date
+    b) Late payments accrue interest at 1% monthly
+    c) Disputed amounts must be notified within 15 days
+    d) Undisputed amounts must be paid when due
+
+4. INTELLECTUAL PROPERTY
+
+4.1 Ownership:
+    a) Provider retains ownership of pre-existing IP
+    b) Client owns all deliverables upon payment
+    c) Provider grants perpetual license to supporting materials
+    d) Each party retains respective background IP
+
+4.2 License Grants:
+    a) Provider licenses pre-existing IP to Client
+    b) Client licenses necessary materials to Provider
+    c) Both licenses limited to purpose of Agreement
+    d) No implied licenses granted
+
+5. CONFIDENTIALITY
+
+5.1 Definition of Confidential Information:
+    a) Technical and business information
+    b) Customer and employee data
+    c) Pricing and financial information
+    d) Product and service plans
+
+5.2 Protection Requirements:
+    a) Maintain strict confidentiality
+    b) Use only for Agreement purposes
+    c) Limit access to need-to-know basis
+    d) Return or destroy upon request
+
+6. WARRANTIES AND REPRESENTATIONS
+
+6.1 Provider Warranties:
+    a) Services performed professionally
+    b) Deliverables will meet specifications
+    c) No infringement of third-party rights
+    d) Compliance with all applicable laws
+
+6.2 Client Warranties:
+    a) Right to provide materials to Provider
+    b) Compliance with all applicable laws
+    c) Accurate information provided
+    d) Authorized to enter Agreement
+
+7. INDEMNIFICATION
+
+7.1 Provider Indemnification:
+    a) Infringement claims
+    b) Gross negligence or willful misconduct
+    c) Breach of confidentiality
+    d) Employment-related claims
+
+7.2 Client Indemnification:
+    a) Misuse of deliverables
+    b) Client materials
+    c) Breach of confidentiality
+    d) Third-party claims from use
+
+8. LIMITATION OF LIABILITY
+
+8.1 Limitations:
+    a) Cap at fees paid in prior 12 months
+    b) No consequential damages
+    c) Unlimited for gross negligence
+    d) Unlimited for confidentiality breach
+
+9. INSURANCE
+
+9.1 Required Coverage:
+    a) Commercial general liability
+    b) Professional liability
+    c) Cyber liability
+    d) Workers' compensation
+
+10. GENERAL PROVISIONS
+
+10.1 Independent Contractors:
+    a) No joint venture or partnership
+    b) No authority to bind other party
+    c) Each party responsible for employees
+    d) No employee benefits shared
+
+10.2 Assignment:
+    a) No assignment without consent
+    b) Permitted to affiliates
+    c) Binding on successors
+    d) Change of control requires notice
+
+10.3 Governing Law:
+    a) Laws of [State/Country]
+    b) Exclusive jurisdiction in [City]
+    c) Prevailing party gets fees
+    d) Equitable remedies available
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+[Provider Name]                           [Client Name]
+By: _____________________                By: _____________________
+Name:                                    Name:
+Title:                                   Title:
+Date:                                    Date: 

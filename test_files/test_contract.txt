@@ -1,0 +1,59 @@
+SOFTWARE DEVELOPMENT AGREEMENT
+
+This Software Development Agreement (the "Agreement") is made on May 24, 2024, between:
+
+DEVELOPER: InnoTech Solutions Inc. ("Developer")
+CLIENT: Global Enterprises LLC ("Client")
+
+1. SCOPE OF WORK
+The Developer agrees to develop a custom enterprise software solution ("Software") as specified in Attachment A.
+
+2. PAYMENT TERMS
+2.1 Total Project Cost: $250,000
+2.2 Payment Schedule:
+    - 30% upon contract signing ($75,000)
+    - 40% upon completion of Phase 1 ($100,000)
+    - 30% upon final delivery ($75,000)
+2.3 Late payments will incur a 1.5% monthly interest charge.
+
+3. INTELLECTUAL PROPERTY RIGHTS
+3.1 All pre-existing intellectual property remains with its respective owner.
+3.2 Upon full payment, Client shall own all rights to the custom code developed specifically for this project.
+3.3 Developer retains rights to all generic libraries and frameworks used in development.
+
+4. CONFIDENTIALITY
+4.1 Both parties shall maintain strict confidentiality of all proprietary information.
+4.2 Confidentiality obligations survive termination for a period of 5 years.
+4.3 Source code and technical documentation are considered strictly confidential.
+
+5. LIABILITY AND INDEMNIFICATION
+5.1 Developer's total liability shall be limited to the amount paid for the Software.
+5.2 Developer provides no warranties beyond those explicitly stated.
+5.3 Client shall indemnify Developer against third-party claims arising from Client's use of the Software.
+
+6. FORCE MAJEURE
+Neither party shall be liable for delays caused by circumstances beyond reasonable control, including but not limited to natural disasters, war, or pandemics.
+
+7. TERMINATION
+7.1 Either party may terminate with 60 days written notice.
+7.2 Upon termination:
+    - All work shall cease immediately
+    - Client shall pay for work completed
+    - All confidential information shall be returned
+
+8. GOVERNING LAW AND JURISDICTION
+8.1 This Agreement shall be governed by California law.
+8.2 Any disputes shall be resolved in the courts of San Francisco County.
+
+9. ASSIGNMENT
+Neither party may assign this Agreement without prior written consent of the other party.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement:
+
+_______________________
+InnoTech Solutions Inc.
+Date: May 24, 2024
+
+_______________________
+Global Enterprises LLC
+Date: May 24, 2024 
